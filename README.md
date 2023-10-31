@@ -1,39 +1,34 @@
-# Tasca-M2-T01
-Sprint 2. Bàsics de Python
+# Exercises on data structures with Python.
 
-Exercicis d'estructures de dades amb Python.
-
-
-
-- Exercici 1
-Crea una llista que agrupi els mesos de l’any en trimestres (1T: gener, febrer i març; 2T: abril, maig, juny...), és a dir, una llista amb 4 llistes dins.
+- Exercise 1
+Create a list that groups the months of the year into quarters (Q1: January, February and March; Q2: April, May, June...), i.e. a list with 4 lists inside.
 
 
 
-- Exercici 2
-Crea un codi que et permeti accedir a:
+- Exercise 2
+Create a code that allows you to access:
 
-El segon mes del primer trimestre.
-Els mesos del primer trimestre.
-Setembre i octubre.
-
-
-- Exercici 3
-Crea una llista amb nombres desordenats i respon a les següents preguntes:
-
-Quants números hi ha?
-Quantes vegades apareix el número 3.
-Quantes vegades apareixen els nombres 3 i 4?
-Quin és el número més gran?
-Quins són els 3 números més petits?
-Quin és el rang d’aquesta llista?
+The second month of the first quarter.
+The months of the first quarter.
+September and October.
 
 
-- Exercici 4
-Crea un diccionari de la següent forma i respon a les preguntes:
+- Exercise 3
+Create a list with unordered names and answer the following questions:
+
+How many numbers are there?
+How many times does the number 3 appear.
+How many times do the names 3 and 4 appear?
+What is the largest number?
+What are the 3 smallest numbers?
+What is the range of this list?
+
+
+- Exercise 4
+Create a dictionary in the following form and answer the questions:
 
 compra = { "Pomes" : {"Qty": 5, "€": 0.42}, "Peres" : {"Qty": 3, "€": 0.66} }
-Afegeix alguna fruita més
-Quant han costat les peres en total?
-Quantes fruites hem comprat en total?
-Quina és la fruita més cara?
+Afegeix alguna fruita més.
+How much did the pears cost in total?
+How many fruits have we bought in total?
+Which is the most expensive fruit?
